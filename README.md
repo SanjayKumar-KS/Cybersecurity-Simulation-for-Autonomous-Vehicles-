@@ -3,7 +3,10 @@ Developed *Simuhack*, a high-fidelity framework to model and test cybersecurity 
 
 
 
-Developed Simuhack, a high-fidelity simulation framework, addressing 90%+ of identified attack scenarios in autonomous vehicle systems.
-Simulated real-world attack scenarios such as GPS spoofing and V2X communication breaches, reducing vulnerabilities by over 80% through proactive defenses.
-Enhanced AV system security and reliability, enabling safer deployment and reducing potential navigation failures by up to 70%.
-Provided researchers and developers with tools to increase efficiency in testing and modeling cybersecurity threats by 50%, improving the overall development process.
+1)Developed Simuhack, a high-fidelity simulation framework, addressing 90%+ of identified attack scenarios in autonomous vehicle systems.
+
+2)Simulated real-world attack scenarios such as GPS spoofing and V2X communication breaches, reducing vulnerabilities by over 80% through proactive defenses.
+
+3)Enhanced AV system security and reliability, enabling safer deployment and reducing potential navigation failures by up to 70%.
+
+4)Provided researchers and developers with tools to increase efficiency in testing and modeling cybersecurity threats by 50%, improving the overall development process.
